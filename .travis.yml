@@ -13,4 +13,5 @@ python:
 #  - pip install -r requirements.txt
 # command to run tests
 script:
-  - pytest 1stClass.py
+#  - pytest 1stClass.py
+  - python 2ndClass.py

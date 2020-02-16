@@ -7,28 +7,28 @@ Professor: Iuri Segtovich
 
 print('Hello World')
 
-print ('''
+print('''
        
 Hello
 
 World''')
 
 
-print ("""
+print("""
        
 Hello
 
 World2""")
 
-x=1
-X=25.54e-23
+x = 1
+X = 25.54e-23
 
-d=8/2
-c=8//2
-b=7%3
+d = 8 / 2
+c = 8 // 2
+b = 7 % 3
 
 a = 25 + 3.14
-a+x
+a + x
 
 
 #x = input('Digite alguma coisa ')
@@ -51,15 +51,15 @@ x = 1.253
 X = x
 print ('\nx = ', x)
 
-u=1/(sqrt(2*pi))*e**(-1/2*x**2)
+u=1 / (sqrt(2 * pi)) * e ** (-1 / 2 * x ** 2)
 
 print ('u = ', u)
 
-y = sin(pi*x)**2
+y = sin(pi * x) ** 2
 
 print('y = ', y)
 
-z = e**sin(x)/sqrt(x**2+1)
+z = e ** sin(x) / sqrt(x ** 2 + 1)
 
 print('z = ', z, '\n')
 
@@ -71,30 +71,30 @@ import sympy as sy
 
 x = sy.Symbol('x')
 
-u=1/(sqrt(2*pi))*e**(-1/2*x**2)
+u=1 / (sqrt(2 * pi)) * e ** (-1 / 2 * x ** 2)
 
 print(u)
 print(u.subs(x, X))
 
 
-a = pi*1j
+a = pi * 1j
 
 print(a)
 
-c= a+5
+c= a + 5
 print(c)
 
 
 
 # --------------------------------------------
-carteria1=10
-carteria2=10
-carteria3=10
-garcao=0
-restaurante=0
+carteria1 = 10
+carteria2 = 10
+carteria3 = 10
+garcao = 0
+restaurante = 0
 
 # transação
-conta=30
+conta = 30
 
 
 # -------------------------------------------
@@ -109,10 +109,10 @@ print(list1)
 print(list1[::-1])
 
 lista_vazia = []
-n=8
+n = 8
 for i in range(n):
     print("i: ", i)
-    lista_vazia += [i/7]
+    lista_vazia += [i / 7]
 
 print(lista_vazia)
 
@@ -132,9 +132,5 @@ for i in range(n):
     
     
 soma = sum(lista)
-print(soma)
-    
-    
-
-
+print(soma) 
 

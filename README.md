@@ -1,4 +1,6 @@
 # Scientific Python
+[![Build Status](https://travis-ci.org/fit087/scientific_python.svg?branch=develop)](https://travis-ci.org/fit087/scientific_python)
+
 Scientific Python Course from COPPE/UFRJ
 
 ## Summary

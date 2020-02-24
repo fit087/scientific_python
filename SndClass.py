@@ -3,7 +3,7 @@
 Created on Tue Feb 11 13:07:06 2020
 
 @author: Adolfo Correa
-Iuri Segtovich
+Professor: Dr. Iuri Segtovich
 """
 import numpy as np
 print('\nExercise 1\n')

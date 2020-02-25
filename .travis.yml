@@ -15,4 +15,4 @@ install:
 # command to run tests
 script:
 #  - pytest 1stClass.py
-  - python 2ndClass.py
+  - python SndClass.py

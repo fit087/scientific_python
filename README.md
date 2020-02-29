@@ -1,4 +1,5 @@
 # Scientific Python
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://travis-ci.org/fit087/scientific_python.svg?branch=develop)](https://travis-ci.org/fit087/scientific_python)
 
 Scientific Python Course from COPPE/UFRJ
